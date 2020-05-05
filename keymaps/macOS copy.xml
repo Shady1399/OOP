@@ -1,4 +1,7 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl meta c" />
+  </action>
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
