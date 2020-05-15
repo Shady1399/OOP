@@ -1,0 +1,11 @@
+<application>
+  <component name="libraryTable">
+    <library name="junit4">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Desktop/Programmazione a Oggetti/Laboratori/Lab3/lib/junit-4.12.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
